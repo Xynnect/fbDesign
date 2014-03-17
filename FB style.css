@@ -6,10 +6,6 @@ div.rightColumnWrapper.fixed_elem {
     display: none;
 }
 
-#leftCol {
-    margin-left: -300px;
-}
-
 div.fixed_elem.aboveSidebar {
     height: 0;
 }
@@ -20,10 +16,6 @@ div._4-u2._5v6e {
 
 #rightCol {
     display: none;
-}
-
-div.clearfix.hasRightCol.homeWiderContent.homeFixedLayout.hasExpandedComposer.newsFeedComposer._5r-_ {
-    margin-left: -10px;
 }
 
 a.button_anchor {
@@ -53,5 +45,13 @@ ul.UFIList {
 
 div.clearfix {
     margin-left: 10px;
+}
+
+#leftCol {
+    margin-left: -310px;
+}
+
+div.clearfix.hasRightCol.homeWiderContent.homeFixedLayout.hasExpandedComposer.newsFeedComposer._5r-_ {
+    padding-left: 50px;
 }
 
