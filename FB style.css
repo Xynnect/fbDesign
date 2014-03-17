@@ -1,5 +1,5 @@
 div.rfloat._ohf {
-    margin-right: -300px;
+    margin-right: -600px;
 }
 
 div.rightColumnWrapper.fixed_elem {
@@ -39,7 +39,7 @@ a._52c6 {
 }
 
 div._4-u2.mbm._5jmm._5pat._5v3q._5sq8._5x16 {
-    width: 940px;
+    width: 600px;
     background-color: #000000;
 }
 
@@ -53,5 +53,9 @@ div._6m3 {
 
 ul.UFIList {
     background-color: #000000;
+}
+
+div.clearfix {
+    margin-left: 10px;
 }
 
