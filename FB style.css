@@ -1,5 +1,6 @@
 #leftCol {
     margin-left: -310px;
+    margin-top: 50px;
 }
 
 #rightCol {
@@ -33,6 +34,7 @@ div.clearfix {
 
 div.clearfix.hasRightCol.homeWiderContent.homeFixedLayout.hasExpandedComposer.newsFeedComposer._5r-_ {
     padding-left: 50px;
+    margin-top: -50px;
 }
 
 div.fixed_elem.aboveSidebar {
@@ -53,5 +55,9 @@ div.rightColumnWrapper.fixed_elem {
 
 ul.UFIList {
     background-color: #000000;
+}
+
+div._6m3 {
+    margin-left: 160px;
 }
 
